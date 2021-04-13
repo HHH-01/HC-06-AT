@@ -1,13 +1,14 @@
 
 ## Version
-* Info: HC-06 Baud Rate
+* Info: HC-06 Baud Rate | Date: 4/2021
 * Developer: HHH | harry.hoa.huynh.01@gmail.com
-* Date: 4/2021
 
 ## Introduction
-Task:
-1. HC-06 in AT mode to configure it
-* Notice that it happened to a lot of people including myself that I can't get to AT Mode. It's mainly due to the wrong baud rate set up when trying to commnunicate with the HC-06.
+Main task: communicate with HC-06 in AT mode to configure baud rate, name, password, etc. 
+
+Notice that it happened to a lot of people including myself that I can't get to AT Mode using HC-06. It's mainly due to the wrong baud rate set up when trying to commnunicate with the HC-06.
+
+Different than HC-05, HC-06 is in the AT mode by default when it's not connected to a Master. The only way to configure HC-06 is to directly connect to it and send AT commands, no need to hold button or set High/Low to any pins. The red LED indicator keeps blinking during an initial turn on showing that it's in the AT Mode.  
 
 
 ## Connection

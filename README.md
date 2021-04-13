@@ -1,8 +1,7 @@
 
 ## Version
 * Info: HC-06 Baud Rate
-* Developer: HHH
-* Email: harry.hoa.huynh.01@gmail.com
+* Developer: HHH | harry.hoa.huynh.01@gmail.com
 * Date: 4/2021
 
 ## Introduction
@@ -25,6 +24,6 @@ Task:
 ## Picture for reference
 
 
-![Circuit Set up](Images/Circuit Set Up.jpg)
+![Circuit Set up](https://github.com/HHH-01/HC-06-AT/blob/9cec5774cba77e4e0989d676fae63cead8ab7ce8/Images/Circuit%20Set%20Up.jpg)
 
 ![Serial Outout](https://github.com/HHH-01/HC-06-AT/blob/0ef8bf7c0b78a6d63a81401c7b092170262965c4/Images/SerialOutput.PNG)

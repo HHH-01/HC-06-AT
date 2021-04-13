@@ -1,8 +1,9 @@
 //Verify Baudrate
-//Date: 04/12/2020
+//Date: 04/12/2020 HHH
 //HC06: JY-MCU V1.06
 //Serial Port set up: 9600 baud, No Line Ending.
 //Make sure the Baud Rate of mySerial is correct; Running HC-06-Baud-Rate script if needed
+//Make sure use the Voltage Devider for RXD
 
 #include <SoftwareSerial.h>
 

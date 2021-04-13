@@ -1,8 +1,7 @@
 
 ## Version
 * Info: HC-06 Baud Rate | Date: 4/2021
-* Developer: HHH | harry.hoa.huynh.01@gmail.com
-
+* Developer: HHH
 ## Introduction
 Main task: communicate with HC-06 in AT mode to configure baud rate, name, password, etc. 
 
@@ -21,6 +20,7 @@ Different than HC-05, HC-06 is in the AT mode by default when it's not connected
 ## Component
 1. HC-06 JY-MCU V1.06
 2. Arduino Uno
+3. 3x 1k resistor
 
 ## Picture for reference
 

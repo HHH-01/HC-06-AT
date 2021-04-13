@@ -25,6 +25,6 @@ Task:
 ## Picture for reference
 
 
-![Circuit Set up](https://github.com/HHH-01/HC-06-BaudRate/blob/dcda748a6d03bd0a2f9ea9671f9224c50325e7de/Images/Circuit%20Set%20Up.jpg)
+![Circuit Set up](Images/Circuit Set Up.jpg)
 
-![Serial Outout](https://github.com/HHH-01/HC-06-BaudRate/blob/9209809f479bf83aee52152d6d4b9d66957d2e9d/Images/SerialOutput.PNG)
+![Serial Outout](https://github.com/HHH-01/HC-06-AT/blob/0ef8bf7c0b78a6d63a81401c7b092170262965c4/Images/SerialOutput.PNG)
